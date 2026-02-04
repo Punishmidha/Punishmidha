@@ -36,14 +36,14 @@ Happy coding! 🚀</h3>
 <div style="background-color: #1e1e1e; padding: 20px; border-radius: 10px;">
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=punishmidha&show_icons=true&locale=en&theme=tokyonight" alt="Taher H. Kapadia" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=punishmidha&show_icons=true&locale=en&theme=tokyonight" alt="Punish Midha" height="195" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=punishmidha&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Taher h. Kapadia" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=punishmidha&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Punish Midha" height="195" />
 
   <!-- GitHub Profile Trophy -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=punishmidha&theme=dracula&margin-w=15&margin-h=15" alt="Taher H. Kapadia" height="195" />
+    <img src="https://github-profile-trophy.vercel.app/?username=punishmidha&theme=dracula&margin-w=15&margin-h=15" alt="Punish Midha" height="195" />
   </a>
 
 </div>
